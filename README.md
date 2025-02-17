@@ -8,4 +8,4 @@ Student: Aknur Abdikarimova
 Professor: Nicolò Cesa Bianchi
 
 # Abstract
-This project implements decision trees and random forests for binary classification using the Mushroom dataset. Different splitting criteria, including Gini impurity, entropy, and misclassification error,, hyperparameter tuning, and pruning techniques are applied to optimize model performance. Overfitting and underfitting are analyzed, and ensemble learning is explored to improve classification accuracy and model stability.
+This project implements decision trees and random forests for binary classification using the Mushroom dataset. Different splitting criteria, including Gini impurity, entropy, and misclassification error, hyperparameter tuning, and pruning techniques are applied to optimize model performance. Overfitting and underfitting are analyzed, and ensemble learning is explored to improve classification accuracy and model stability.
